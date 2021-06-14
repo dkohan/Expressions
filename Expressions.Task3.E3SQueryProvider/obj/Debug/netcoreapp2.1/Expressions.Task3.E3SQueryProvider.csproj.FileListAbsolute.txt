@@ -1,0 +1,14 @@
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\bin\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\bin\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\bin\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\obj\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\obj\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\obj\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\obj\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\obj\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.csproj.CopyComplete
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\obj\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Expressions and IQueryable.Tasks.Week2_updated\Expressions.Task3.E3SQueryProvider\obj\Debug\netcoreapp2.1\Expressions.Task3.E3SQueryProvider.pdb
